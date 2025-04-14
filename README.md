@@ -24,7 +24,7 @@ El diseño es responsive y se adapta a distintos tamaños de pantalla, incluyend
 
 ## 🔗 Enlace al proyecto
 
-[🔗 Ver el proyecto online](#)  
+[🔗 Ver el proyecto online](https://frontendpractice2mjpg.netlify.app)  
 
 ## 🙌 Créditos
 
